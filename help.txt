@@ -1,0 +1,11 @@
+
+Resources: 
+https://github.com/tock/tock/blob/master/arch/cortex-m/src/mpu.rs
+https://github.com/tock/tock/blob/master/kernel/src/platform/mpu.rs
+
+tiktok.pdf
+section 1- 3, section 6,
+
+Lets start with this:
+https://github.com/tock/tock/issues/1739
+
