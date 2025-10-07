@@ -1,0 +1,6 @@
+[package]
+name = "tock_cortex_m_mpu_rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
